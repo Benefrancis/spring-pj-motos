@@ -51,6 +51,7 @@ public class Loja {
 
             }
     )
+
     private Set<Veiculo> veiculosComercializados = new LinkedHashSet<>();
 
 }
